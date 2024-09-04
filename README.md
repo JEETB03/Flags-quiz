@@ -13,9 +13,8 @@ This is a simple Node.js web application that quizzes users on country flags. Th
 - [Running the Application](#running-the-application)
 - [Application Structure](#application-structure)
 - [Usage](#usage)
-- [Deployment](#deployment)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
